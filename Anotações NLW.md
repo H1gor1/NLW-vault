@@ -5,3 +5,5 @@ Framework utilizado: fastify
 
 Promisse: no js indica algo que pode demorar um pouco para executar
 
+BiomeJS: "concorrente" do ESLint
+
