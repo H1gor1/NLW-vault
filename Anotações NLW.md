@@ -7,3 +7,5 @@ Promisse: no js indica algo que pode demorar um pouco para executar
 
 BiomeJS: "concorrente" do ESLint
 
+Drizzle: ORM que será utilizada, usando migrations
+
