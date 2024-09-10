@@ -28,4 +28,9 @@ export const goals = pgTable('goals', {
 })
 ```
 
+serão necessárias 4 rotas:
 
+1 para cadastrar meta
+1 para marcar como concluida
+1 para retornar os dados da semana
+1 para retornar as metas da semana
